@@ -75,7 +75,7 @@ function App() {
      <div className="hero-card">
   <div className="profile-circle">
     <img
-      src="/profile.jpg"
+      src="/Photo.png"
       alt="Amisha Kumari"
       className="profile-image"
     />
@@ -263,6 +263,30 @@ function App() {
               View Project →
             </a>
           </div>
+            ```jsx
+{/* ExpenseMind AI - In Progress */}
+<div className="project-card">
+  <h3>ExpenseMind AI – AI-Powered Finance & Expense Management System</h3>
+
+  <p>
+    AI-powered personal finance management system for tracking income and
+    expenses, financial analytics, savings forecasting, anomaly detection,
+    and personalized AI-driven financial insights.
+  </p>
+
+  <div className="tech-stack">
+    <span>React</span>
+    <span>Node.js</span>
+    <span>Express</span>
+    <span>MongoDB</span>
+    <span>AI/ML</span>
+  </div>
+
+  <p className="project-status">
+    🚧 In Progress
+  </p>
+</div>
+```
 
 
           {/* Task Management */}
