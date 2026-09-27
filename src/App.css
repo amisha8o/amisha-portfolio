@@ -521,3 +521,20 @@ footer {
   filter: none !important;
   text-shadow: 0 0 15px rgba(255, 255, 255, 0.08);
 }
+
+.profile-circle {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto 25px;
+  border: 3px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0 35px rgba(0, 212, 255, 0.25);
+}
+
+.profile-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}

@@ -72,14 +72,18 @@ function App() {
           </div>
         </div>
 
-        <div className="hero-card">
-          <div className="profile-circle">
-            AK
-          </div>
+     <div className="hero-card">
+  <div className="profile-circle">
+    <img
+      src="/profile.jpg"
+      alt="Amisha Kumari"
+      className="profile-image"
+    />
+  </div>
 
-          <h3>Software Developer</h3>
-          <p>Java • DSA • MERN • AI/ML</p>
-        </div>
+  <h3>Software Developer</h3>
+  <p>Java • DSA • MERN • AI/ML</p>
+</div>
       </section>
 
 
@@ -92,7 +96,7 @@ function App() {
           <div className="about-text">
             <p>
               I am a Computer Science and Engineering student pursuing
-              my B.Tech with an 8.6 CGPA. I enjoy building practical
+              my B.Tech with an 8.78 CGPA. I enjoy building practical
               software solutions and solving complex problems using
               Data Structures and Algorithms.
             </p>
@@ -107,7 +111,7 @@ function App() {
 
           <div className="about-stats">
   <div className="stat-card">
-    <h3>8.6</h3>
+    <h3>8.78</h3>
     <p>CGPA</p>
   </div>
 
@@ -393,7 +397,7 @@ function App() {
           </h4>
 
           <p>
-            August 2023 – Present | CGPA: 8.6 / 10
+            August 2023 – Present | CGPA: 8.78 / 10
           </p>
         </div>
       </section>
