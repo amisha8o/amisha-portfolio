@@ -48,15 +48,13 @@ function App() {
               View My Work
             </a>
 
-           <a
-  href="/Amisha_Kri_Resume.pdf"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="btn secondary"
->
-  Download Resume
-</a>
-
+      <a href="/Amisha_Kri_Resume.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="btn secondary"
+      >
+       Download Resume
+      </a>
             <a href="#contact" className="btn secondary-btn">
               Contact Me
             </a>
